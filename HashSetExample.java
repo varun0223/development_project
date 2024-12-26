@@ -21,7 +21,8 @@ public class HashSetExample {
 		}
         
 		animals.remove("Dog");
-		System.out.println("After removal: " + animals);
+		System.out.println("After removal the animal: " + animals);
+		
 		
 	}
 
